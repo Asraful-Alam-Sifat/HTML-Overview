@@ -54,6 +54,11 @@ legend{
 }
 #submit{
     width: 30%;
+    background-color:aqua;
+    border-radius:5px;
+    font-weight:bold;
+    padding:3px;
+    
 }
 
 
