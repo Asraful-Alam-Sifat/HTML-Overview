@@ -64,4 +64,8 @@ legend{
     background-color:rgb(182, 182, 210);
 }
 
+.submitbutton{
+    display:flex;
+    justify-content:space-around;
+}
 
