@@ -9,6 +9,7 @@ legend{
     font-weight:bold;
     padding:0 5px;
     font-size:1.25em;
+    text-decoration:wavy underline;
 }
 
 label,textarea,select,button{
@@ -16,10 +17,12 @@ label,textarea,select,button{
     margin-top:10px;
     font-weight:bold;
     color:brown;
+    width:100%
 
 }
 
 input{
     display:block;
     margin-top:5px;
+    width:100%
 }
