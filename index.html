@@ -14,40 +14,43 @@
             <input type="search" id="searchbox" name="searchbox" placeholder="Search" >
             <button id="search" type="submit">Search</button>
         </form>
-    </header>
-    
-   <main>
-    <section class="herosection">
+        <section class="herosection">
         <figure>
              <img width="200" src="/Images/image.jpg" alt="Profile photo">
              <figcaption>Image 1</figcaption>
         </figure>
         <a href="/Images/">Click here to view all images</a>
+    </header>
+    
+   <main>
+    
        
     </section>
      <form action="submit.php" class="contactform"> 
         <fieldset>
             <legend>Contact </legend>
-            <div>
+            <div class="container">
+                 
                 <label for="name">*Name:</label>
             <input type="text" class="contactdata" id="name" name="name" placeholder="Your name" required>
-            </div>
             
-            <div>
+            
+            
                 <label for="email">*Email:</label>
             <input type="email" class="contactdata" id="email" name="email" placeholder="Your email" required>
-            </div>
+            
            
-            <div>
                 <label for="date">Date:</label>
                 <input type="date" class="contactdata" id="date" name="date">
-            </div>
+            
 
-            <div>
+            
                 <label for="massage">Add Message:</label>
                 <textarea name="massage" id="massage" placeholder="Enter massage" rows="5"></textarea>
+            
+            <button type="submit">Submit</button>
             </div>
-            <div><button type="submit">Submit</button></div>
+           
 
         </fieldset>
      </form>
