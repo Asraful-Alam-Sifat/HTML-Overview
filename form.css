@@ -12,7 +12,7 @@ legend{
     text-decoration:wavy underline;
 }
 
-label,textarea,select,button{
+label,textarea,select{
     display:block;
     margin-top:10px;
     font-weight:bold;
@@ -25,4 +25,7 @@ input{
     display:block;
     margin-top:5px;
     width:100%
+}
+button{
+    display:flex;
 }
