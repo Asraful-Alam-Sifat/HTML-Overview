@@ -27,5 +27,14 @@ input{
     width:100%
 }
 button{
-    display:flex;
+margin-top:10px;
+    font-weight:bold;
+    background-color:lightgrey;
 }
+
+.submit{
+    display:flex;
+    justify-content:space-around;
+}
+    
+    
