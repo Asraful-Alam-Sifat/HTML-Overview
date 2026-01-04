@@ -5,19 +5,25 @@ body{
 hr{
     border: 2px solid black;
 }
-img{
-    border-radius:10px;
-}
 #search{
     background-color:aqua;
     border-radius:4px;
     font-weight:bold;
     padding:1px 5px;
 }
+img{
+    border-radius:10px;
+}
+
 #search:hover{
     background-color:rgb(182, 182, 210);
 }
-
+.herosection{
+    max-width:50%
+}
 figcaption{
     font-size:1.3em;
+    font-weight:bold;
+    text-align:center;
+    
 }
