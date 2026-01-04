@@ -14,3 +14,8 @@ label,textarea,select,button{
     font-weight:bold;
 
 }
+
+input{
+    display:block;
+    margin-top:5px;
+}
