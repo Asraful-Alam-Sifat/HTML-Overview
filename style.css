@@ -5,3 +5,6 @@ body{
 hr{
     border: 2px solid black;
 }
+img{
+    border-radius:10px;
+}
