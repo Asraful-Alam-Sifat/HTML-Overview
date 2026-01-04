@@ -52,3 +52,8 @@ legend{
     flex-direction:column;
     gap: 10px;
 }
+#submit{
+    width: 30%;
+}
+
+
