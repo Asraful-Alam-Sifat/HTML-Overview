@@ -60,5 +60,8 @@ legend{
     padding:3px;
     
 }
+#submit:hover{
+    background-color:rgb(182, 182, 210);
+}
 
 
