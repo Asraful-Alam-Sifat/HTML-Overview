@@ -14,3 +14,6 @@ img{
     font-weight:bold;
     padding:1px 5px;
 }
+#search:hover{
+    background-color:rgb(182, 182, 210);
+}
