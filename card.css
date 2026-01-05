@@ -14,6 +14,7 @@ div{
    max-width:350px;
    padding:20px;
    background-color:antiquewhite;
+   box-shadow:15px -9px 10px rgb(173, 170, 170)
 }
 #image1{
     border-radius:50%;
