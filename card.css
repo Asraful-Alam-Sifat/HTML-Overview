@@ -4,12 +4,20 @@ div{
    padding:20px;
    background-color:antiquewhite;
 }
-img{
+#image1{
     border-radius:50%;
-    height:270px;
-    width:250px;
+    height:280px;
+    width:270px;
     border:5px solid gainsboro;
 }
+#image2{
+    border-radius:50%;
+    height:260px;
+    width:270px;
+    border:5px solid gainsboro;
+
+}
+
 figcaption{
     text-align:center;
     font-size:1.7em;
