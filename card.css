@@ -1,17 +1,21 @@
-.container1{
+div{
    border:2px solid black;
    max-width:350px;
    padding:20px;
    background-color:antiquewhite;
 }
-#image1{
+img{
     border-radius:50%;
     height:270px;
     width:250px;
     border:5px solid gainsboro;
 }
-#caption1{
+figcaption{
     text-align:center;
     font-weight:bold;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span{
+    display:block;
 }
