@@ -2,6 +2,9 @@
    border:2px solid black;
    max-width:350px;
    padding:20px;
-
 }
-
+#image1{
+    border-radius:50%;
+    height:270px;
+    width:250px;
+}
