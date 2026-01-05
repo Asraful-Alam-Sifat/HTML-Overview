@@ -3,7 +3,9 @@ table{
     width:100%;
     
 }
-td{
+td,th{
     border:2px solid black;
     text-align:center;
+    font-weight:100px;
+    background-color:rgb(231, 226, 226);
 }
