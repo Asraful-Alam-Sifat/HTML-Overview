@@ -8,4 +8,7 @@ td,th{
     text-align:center;
     font-weight:100px;
     background-color:rgb(231, 226, 226);
+    color:saddlebrown;
+    text-transform:capitalize;
+    
 }
