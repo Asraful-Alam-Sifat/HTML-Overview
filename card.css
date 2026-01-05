@@ -12,6 +12,7 @@ img{
 }
 figcaption{
     text-align:center;
+    font-size:1.7em;
     font-weight:bold;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -21,9 +22,10 @@ span{
     width:fit-content;
     margin:0 auto;
     justify-content:center;
+    font-weight:bold;
 
 }
 P{
     text-transform:capitalize;
-    
+    text-align:center;
 }
