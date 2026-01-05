@@ -17,7 +17,13 @@ div{
     border:5px solid gainsboro;
 
 }
+#image3{
+    border-radius:50%;
+    height:260px;
+    width:250px;
+    border:5px solid gainsboro;
 
+}
 figcaption{
     text-align:center;
     font-size:1.7em;
