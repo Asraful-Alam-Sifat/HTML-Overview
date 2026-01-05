@@ -3,6 +3,12 @@ section{
     justify-content:center;
     gap:2em;
 }
+h1{
+    font-size:xx-large;
+    text-align:center;
+    text-transform:uppercase;
+     
+}
 div{
    border:2px solid black;
    max-width:350px;
